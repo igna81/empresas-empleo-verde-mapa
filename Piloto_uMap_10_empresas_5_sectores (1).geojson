@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.408,
+          42.136
+        ]
+      },
+      "properties": {
+        "name": "Ab Energía",
+        "description": "Grupo energético dedicado la distribución y generación de energía eléctrica, comercialización de energía eléctrica y gas e instalaciones eléctricas",
+        "web": "https://abenergia.es/",
+        "provincia": "Huesca",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 1,
+        "sector": "Energía y energías renovables",
+        "subsector": "Energía eléctrica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.97,
+          38.879
+        ]
+      },
+      "properties": {
+        "name": "Alter Enersun",
+        "description": "Gestión de instalaciones fotovoltaicas sobre cubiertas y suelo",
+        "web": "https://www.alterenersun.com/",
+        "provincia": "Badajoz",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 2,
+        "sector": "Energía y energías renovables",
+        "subsector": "Energías renovables — solar fotovoltaica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173,
+          41.387
+        ]
+      },
+      "properties": {
+        "name": "Anthesis",
+        "description": "Consultora para diseñar soluciones en sostenibilidad",
+        "web": "https://www.anthesisgroup.com/es/",
+        "provincia": "Barcelona",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 3,
+        "sector": "Medio ambiente y servicios ambientales",
+        "subsector": "Consultoría ambiental y sostenibilidad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.703,
+          40.417
+        ]
+      },
+      "properties": {
+        "name": "Applus",
+        "description": "Referente en el sector de inspección, ensayos y certificación",
+        "web": "https://www.applus.com/global/es/",
+        "provincia": "Madrid",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 4,
+        "sector": "Ingeniería, inspección y certificación",
+        "subsector": "Inspección, ensayos y certificación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.376,
+          39.47
+        ]
+      },
+      "properties": {
+        "name": "Atersa",
+        "description": "Fabricación de paneles fotovoltaicos",
+        "web": "https://www.atersa.com/atersa",
+        "provincia": "Valencia/València",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 5,
+        "sector": "Energía y energías renovables",
+        "subsector": "Energías renovables — solar fotovoltaica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.944,
+          37.261
+        ]
+      },
+      "properties": {
+        "name": "Avalon Renovables",
+        "description": "Compañía especializada en el desarrollo, construcción y operación de proyectos de energías renovables, y soluciones de hidrógeno, amoníaco y metanol verdes, y valorización de residuos",
+        "web": "https://avalonrenovables.com/",
+        "provincia": "Huelva",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 6,
+        "sector": "Economía circular y producción sostenible",
+        "subsector": "Energías renovables y valorización de residuos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173,
+          41.387
+        ]
+      },
+      "properties": {
+        "name": "Barcelona Energia",
+        "description": "Comercializadora pública que suministra energía 100 % renovable a la ciudad y promueve el autoconsumo ciudadano",
+        "web": "https://www.barcelonaenergia.cat/",
+        "provincia": "Barcelona",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 7,
+        "sector": "Energía y energías renovables",
+        "subsector": "Energía eléctrica renovable"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.845,
+          43.361
+        ]
+      },
+      "properties": {
+        "name": "Bosquia",
+        "description": "Impulso de iniciativas sostenibles centradas en la reforestación, el teambuilding ecológico y la compensación de la huella de carbono",
+        "web": "https://bosquia.com/",
+        "provincia": "Asturias",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 8,
+        "sector": "Medio ambiente y servicios ambientales",
+        "subsector": "Restauración ecológica y reforestación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.981,
+          43.318
+        ]
+      },
+      "properties": {
+        "name": "CAF",
+        "description": "Sistemas de transporte integrales de movilidad sostenible",
+        "web": "https://www.cafmobility.com/",
+        "provincia": "Gipuzkoa",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 9,
+        "sector": "Movilidad sostenible",
+        "subsector": "Movilidad sostenible — transporte ferroviario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65,
+          39.57
+        ]
+      },
+      "properties": {
+        "name": "Camper",
+        "description": "Calzado Sostenible",
+        "web": "https://www.camper.com/es_ES",
+        "provincia": "Illes Balears",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 10,
+        "sector": "Economía circular y producción sostenible",
+        "subsector": "Moda y calzado sostenible"
+      }
+    }
+  ]
+}

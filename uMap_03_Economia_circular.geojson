@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.944,
+          37.261
+        ]
+      },
+      "properties": {
+        "name": "Avalon Renovables",
+        "description": "Compañía especializada en el desarrollo, construcción y operación de proyectos de energías renovables, y soluciones de hidrógeno, amoníaco y metanol verdes, y valorización de residuos",
+        "web": "https://avalonrenovables.com/",
+        "provincia": "Huelva",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 6,
+        "sector": "Economía circular y producción sostenible",
+        "subsector": "Energías renovables y valorización de residuos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65,
+          39.57
+        ]
+      },
+      "properties": {
+        "name": "Camper",
+        "description": "Calzado Sostenible",
+        "web": "https://www.camper.com/es_ES",
+        "provincia": "Illes Balears",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 10,
+        "sector": "Economía circular y producción sostenible",
+        "subsector": "Moda y calzado sostenible"
+      }
+    }
+  ]
+}

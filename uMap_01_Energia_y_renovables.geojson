@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.408,
+          42.136
+        ]
+      },
+      "properties": {
+        "name": "Ab Energía",
+        "description": "Grupo energético dedicado la distribución y generación de energía eléctrica, comercialización de energía eléctrica y gas e instalaciones eléctricas",
+        "web": "https://abenergia.es/",
+        "provincia": "Huesca",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 1,
+        "sector": "Energía y energías renovables",
+        "subsector": "Energía eléctrica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.97,
+          38.879
+        ]
+      },
+      "properties": {
+        "name": "Alter Enersun",
+        "description": "Gestión de instalaciones fotovoltaicas sobre cubiertas y suelo",
+        "web": "https://www.alterenersun.com/",
+        "provincia": "Badajoz",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 2,
+        "sector": "Energía y energías renovables",
+        "subsector": "Energías renovables — solar fotovoltaica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.376,
+          39.47
+        ]
+      },
+      "properties": {
+        "name": "Atersa",
+        "description": "Fabricación de paneles fotovoltaicos",
+        "web": "https://www.atersa.com/atersa",
+        "provincia": "Valencia/València",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 5,
+        "sector": "Energía y energías renovables",
+        "subsector": "Energías renovables — solar fotovoltaica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173,
+          41.387
+        ]
+      },
+      "properties": {
+        "name": "Barcelona Energia",
+        "description": "Comercializadora pública que suministra energía 100 % renovable a la ciudad y promueve el autoconsumo ciudadano",
+        "web": "https://www.barcelonaenergia.cat/",
+        "provincia": "Barcelona",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 7,
+        "sector": "Energía y energías renovables",
+        "subsector": "Energía eléctrica renovable"
+      }
+    }
+  ]
+}

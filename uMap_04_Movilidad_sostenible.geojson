@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.981,
+          43.318
+        ]
+      },
+      "properties": {
+        "name": "CAF",
+        "description": "Sistemas de transporte integrales de movilidad sostenible",
+        "web": "https://www.cafmobility.com/",
+        "provincia": "Gipuzkoa",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 9,
+        "sector": "Movilidad sostenible",
+        "subsector": "Movilidad sostenible — transporte ferroviario"
+      }
+    }
+  ]
+}

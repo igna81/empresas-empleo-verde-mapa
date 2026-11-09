@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.703,
+          40.417
+        ]
+      },
+      "properties": {
+        "name": "Applus",
+        "description": "Referente en el sector de inspección, ensayos y certificación",
+        "web": "https://www.applus.com/global/es/",
+        "provincia": "Madrid",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 4,
+        "sector": "Ingeniería, inspección y certificación",
+        "subsector": "Inspección, ensayos y certificación"
+      }
+    }
+  ]
+}

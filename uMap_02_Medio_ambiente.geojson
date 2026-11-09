@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173,
+          41.387
+        ]
+      },
+      "properties": {
+        "name": "Anthesis",
+        "description": "Consultora para diseñar soluciones en sostenibilidad",
+        "web": "https://www.anthesisgroup.com/es/",
+        "provincia": "Barcelona",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 3,
+        "sector": "Medio ambiente y servicios ambientales",
+        "subsector": "Consultoría ambiental y sostenibilidad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.845,
+          43.361
+        ]
+      },
+      "properties": {
+        "name": "Bosquia",
+        "description": "Impulso de iniciativas sostenibles centradas en la reforestación, el teambuilding ecológico y la compensación de la huella de carbono",
+        "web": "https://bosquia.com/",
+        "provincia": "Asturias",
+        "ubicacion": "Referencia provincial aproximada (capital); NO es la sede de la empresa",
+        "estado": "Pendiente de verificar",
+        "id_origen": 8,
+        "sector": "Medio ambiente y servicios ambientales",
+        "subsector": "Restauración ecológica y reforestación"
+      }
+    }
+  ]
+}
